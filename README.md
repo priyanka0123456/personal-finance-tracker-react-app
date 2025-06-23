@@ -1,7 +1,7 @@
 # 💸 Personal Finance Tracker
 
 A modern and user-friendly finance tracking app built with **React**, **TypeScript**, and **Vite**. This app helps you manage your daily expenses, incomes, categories, and get insights on your financial health.
-## Screenshot
+## 🖼️ Screenshots
 ![Image](https://github.com/user-attachments/assets/ebed8f65-b1a9-49f2-808d-920c622c6d1c)
 ## 🚀 Features
 
